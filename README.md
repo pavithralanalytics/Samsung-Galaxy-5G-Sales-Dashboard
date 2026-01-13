@@ -65,10 +65,6 @@ PowerPoint (Project Presentation)
 This dashboard provides a comprehensive view of Samsung’s 5G market performance. It is useful for marketing, sales, and strategy teams to understand trends, evaluate regional performance, and make informed business decisions.
 
 # 👩‍💻 Author
-
 Pavithra L
 MBA – Business Analytics & Finance
 
-✔ Or customize it for resume / interview focus
-
-Just tell me: “Make it shorter” or “Add screenshots section” 😊
