@@ -24,22 +24,22 @@ Total Units Sold: 32.8M
 Identifies top-performing models such as Fold, Flip, and A-series
 Helps understand product-wise contribution to overall sales
 
-## 🔹 Regional 5G Coverage vs Subscribers
+### 🔹 Regional 5G Coverage vs Subscribers
 Compares network availability with user adoption
 Shows that regions with stronger 5G coverage have higher subscriber growth
 
-## 🔹 5G vs Non-5G Preference
+### 🔹 5G vs Non-5G Preference
 74% of users prefer 5G devices
 Indicates a strong global shift toward 5G technology
 
-## 🔹 5G Speed vs Customer Preference
+### 🔹 5G Speed vs Customer Preference
 Higher network speed leads to higher customer preference
 North America and Middle East perform strongly in this aspect
 
-## 🔹 Revenue by Region
+### 🔹 Revenue by Region
 Highlights major revenue contributors such as North America and Latin America
 
-## 🔹 Units Sold Over Time
+### 🔹 Units Sold Over Time
 Analyzes sales trends from 2019 to 2024
 Shows consistent peaks during Q3–Q4 (festival and holiday seasons)
 
