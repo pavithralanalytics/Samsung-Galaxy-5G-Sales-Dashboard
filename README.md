@@ -1,3 +1,4 @@
+![Dashboard Preview](Excel%20DASHBOARD.png)
 # Samsung Galaxy 5G Sales Dashboard (2019–2024)
 This project is an Excel-based business analytics dashboard that analyzes Samsung Galaxy 5G smartphone sales across five global regions from 2019 to 2024. It provides insights into market trends, regional performance, customer preference for 5G, and revenue distribution to support data-driven business decisions.
 
