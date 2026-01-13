@@ -20,7 +20,7 @@ Total Revenue: 30.2B
 Total Units Sold: 32.8M
 
 # 📈 Dashboard Features
-## 🔹 Market Share by Product Model
+### 🔹 Market Share by Product Model
 Identifies top-performing models such as Fold, Flip, and A-series
 Helps understand product-wise contribution to overall sales
 
